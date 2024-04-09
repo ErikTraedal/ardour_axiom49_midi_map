@@ -4,12 +4,12 @@ Ardour midi map for M-Audio Axiom 49
 
 ## Mapped functionality
 
-Playback controls are mapped to the keyboard.
-F/1-8 are mapped to the first 8 tracks.
-F9 is mapped to the master track.
-F/10-17 are mapped to mute the first 8 tracks.
-F18 is mapped to master mute.
-Rotary knobs E/1-8 are mapped to panning the first 8 tracks.
+- Playback controls are mapped to the keyboard.
+- F/1-8 are mapped to the first 8 tracks.
+- F9 is mapped to the master track.
+- F/10-17 are mapped to mute the first 8 tracks.
+- F18 is mapped to master mute.
+- Rotary knobs E/1-8 are mapped to panning the first 8 tracks.
 
 ## Installation
 
