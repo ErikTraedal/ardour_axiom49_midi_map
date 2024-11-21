@@ -28,7 +28,7 @@
   <Binding channel="1" pgm="5" uri="/route/mute 6"/>
   <Binding channel="1" pgm="6" uri="/route/mute 7"/>
   <Binding channel="1" pgm="7" uri="/route/mute 8"/>
-  <Binding channel="1" pgm="8" uri="/bus/mute master"/>"
+  <Binding channel="1" pgm="8" uri="/bus/mute master"/>
 
 <!-- Encoders, mapped to pan direction. -->
 
